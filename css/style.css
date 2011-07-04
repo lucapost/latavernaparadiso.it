@@ -1,10 +1,10 @@
-@import url(/css/reset.css);
-@import url(/css/text.css);
-@import url(/css/960.css);
+@import url(css/reset.css);
+@import url(css/text.css);
+@import url(css/960.css);
 @import url(http://fonts.googleapis.com/css?family=Nobile);
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif);
-@import url(/css/hashgrid.css);
-@import url(/css/horizontalaccordion.css);
+@import url(css/hashgrid.css);
+@import url(css/horizontalaccordion.css);
 
 html,
 body {
