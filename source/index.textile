@@ -1,20 +1,27 @@
 notextile. <div class="horizontalaccordion">
-<ul>
-	<li>
-        <h3>Heading 1</h3>
-		<div>Content For Panel 1.</div>
-	</li>
-	<li>
-        <h3>Heading 2</h3>
-		<div>Content For Panel 2.</div>
-	</li>
-	<li>
-        <h3>Heading 3</h3>
-		<div>Content For Panel 3.</div>
-	</li>
-	<li>
-        <h3>Heading 4</h3>
-		<div>Content For Panel 4</div>
-	</li>
-</ul>
+<ul><li>
+    
+h2. Heading 1
+	
+<section>Content For Panel 1.</section>
+
+notextile. </li><li>
+
+h2. Heading 2
+
+<section>Content For Panel 2.</section>
+
+notextile. </li><li>
+
+h2. Heading 3
+
+<section>Content For Panel 3.</section>
+
+notextile. </li><li>
+
+h2. Heading 4
+	
+<section>Content For Panel 4.</section>
+
+notextile. </li></ul>
 </div>

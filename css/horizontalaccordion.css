@@ -1,6 +1,6 @@
 .horizontalaccordion {
-	background-color: blue;
-}
+	background-color: green;
+}	
 
 .horizontalaccordion>ul {
 	margin: 0;
@@ -19,9 +19,6 @@
 	width:35px;
 	height: 420px;
 
-    /* Decorative CSS */
-	background:#f0f0f0;
-
     /* CSS3 Transitions */
 	transition: width 0.3s ease-in-out;
 	-moz-transition: width 0.3s ease-in-out;
@@ -29,7 +26,7 @@
 	-o-transition: width 0.3s ease-in-out;
 }
 
-.horizontalaccordion>ul>li>h3 {
+.horizontalaccordion>ul>li>h2 {
 	display:block;
 	text-align:center;
 	float:left;
@@ -39,7 +36,6 @@
 	width:420px;
 
     /* Decorative CSS */
-	font-family: Arial, Helvetica, sans-serif;
 	line-height: 35px;
 	text-decoration:none;
 	text-transform:uppercase;
@@ -66,7 +62,7 @@
 	background: -webkit-gradient(linear, left top, left bottom, from(#999999), to(#cccccc));
 }
 
-.horizontalaccordion>ul>li>div {
+.horizontalaccordion>ul>li>section {
 	display:none;
 	float:left;
 	overflow: auto;
@@ -75,10 +71,10 @@
 	left:35px;
 	*top:0px;       /* IE7 Hack */
 	*left:0px;      /* IE7 Hack */
-	margin:0;
-	padding: 20px;
-	width:320px;
-	height:280px;
+	margin:20px;
+	padding:0;
+	width:360px;
+	height:380px;
 }
 
 .horizontalaccordion>ul>li:hover {
@@ -86,11 +82,11 @@
 	width: 435px;
 }
 
-.horizontalaccordion:hover>ul>li:hover>div {
+.horizontalaccordion:hover>ul>li:hover>section {
 	display:block;
 }
 
-.horizontalaccordion:hover>ul>li:hover>h3 {
+.horizontalaccordion:hover>ul>li:hover>h2 {
     /* Decorative CSS */
 	color:#fff;
 	background:#000000;
@@ -104,6 +100,6 @@
                "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff454545, endColorstr=#ff000000)";   /* IE 8 */
 }
 
-.horizontalaccordion>ul>li>h3:hover {
+.horizontalaccordion>ul>li>h2:hover {
 	cursor:pointer;
 }

@@ -3,8 +3,8 @@
 
 import datetime
 
-site_name = "Taverna Paradiso"
-site_desc = "Ristoratori a Cividale del Friuli"
+site_name = "Taverna"
+site_desc = "Ristoratori a ..."
 author = "Luca Postregna"
 src_dir = "source"
 dst_dir = "."
@@ -23,9 +23,9 @@ def header(node):
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-		<link rel="stylesheet" type="text/css" media="all" href="css/style.css" /> 
+		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script type="text/javascript" src="js/hashgrid.js"></script>  
+		<script type="text/javascript" src="/js/hashgrid.js"></script>  
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="''' + author + '''" />
 		<title>''' + site_name + ' - ' + node.name + '''</title>
