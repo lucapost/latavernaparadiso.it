@@ -1,0 +1,29 @@
+@import url(/css/reset.css);
+@import url(/css/text.css);
+@import url(/css/960.css);
+@import url(http://fonts.googleapis.com/css?family=Nobile);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(/css/hashgrid.css);
+@import url(/css/horizontalaccordion.css);
+
+html,
+body {
+	font-size: 12px;
+	line-height:20px;
+	font-family: 'Nobile', arial, serif;
+	padding: 0px; 
+	margin: 0px; 
+	width: 100%;
+	height: 100%;
+	background-color: #865a33;
+	color: black;
+}
+
+header {
+	margin-top: 20px;
+}
+
+#center {
+	background-color: #ff6944;
+	height: 420px;
+}
