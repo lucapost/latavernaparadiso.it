@@ -26,6 +26,8 @@ def header(node):
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
+		<script type="text/javascript" src="/js/flux.min.js"></script>  
+		<script type="text/javascript" src="/js/slider.js"></script>  
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="''' + author + '''" />
 		<title>''' + site_name + ' - ' + node.name + '''</title>
@@ -44,15 +46,10 @@ def header(node):
 		</div>
 		<div id="center">
 			<div class="container_12">
-				<div id="main" class="grid_7">
 '''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
-				</div>
-				<div id="images" class="grid_5 clearfix">
-					images
-				</div>
 				<div class="clear"></div>
 			</div>
 		</div>

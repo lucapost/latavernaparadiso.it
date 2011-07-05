@@ -1,27 +1,39 @@
-notextile. <div class="horizontalaccordion">
+notextile. <div id="main" class="grid_7">
+<div class="horizontalaccordion">
 <ul><li>
     
-h2. Heading 1
+h2. Info
 	
 <section>Content For Panel 1.</section>
 
 notextile. </li><li>
 
-h2. Heading 2
+h2. Contatti
 
 <section>Content For Panel 2.</section>
 
 notextile. </li><li>
 
-h2. Heading 3
+h2. Cucina
 
 <section>Content For Panel 3.</section>
 
 notextile. </li><li>
 
-h2. Heading 4
+h2. Taverna
 	
 <section>Content For Panel 4.</section>
 
 notextile. </li></ul>
+</div>
+
+notextile. </div><!-- chiuso main-->
+<div id="images" class="grid_5 clearfix">
+
+notextile. <div id="slider">
+    <img src="/images/01.jpg" alt="" />
+    <img src="/images/02.jpg" alt="" />
+    <img src="/images/03.jpg" alt="" />
+</div>
+
 </div>
