@@ -3,8 +3,8 @@
 
 import datetime
 
-site_name = "Taverna"
-site_desc = "Ristoratori a ..."
+site_name = "Taverna Paradiso"
+site_desc = "Ristorantori a Cividale del Friuli"
 author = "Luca Postregna"
 src_dir = "source"
 dst_dir = "."
@@ -34,7 +34,7 @@ def header(node):
 	</head>
 	<body>
 		<div id="top" class="container_12">
-			<header class="grid_12 clearfix"><a href="/">
+			<header class="grid_12 clearfix">
 				<div id="title">
 					<h1 class="hide">''' + site_name + '''</h1>
 				</div>	
@@ -54,10 +54,19 @@ def footer(node):
 			</div>
 		</div>
 		<div id="bottom" class="container_12">
-			<footer class="grid_12 clearfix">
-					   footer 
+			<footer>
+				<div class="grid_3">
+					di Manuela Vogrig e<br/>
+					Via Pinco Pallino 1<br/>
+					Cividale del Friuli, Udine, Italy
+				</div>					
+				<div class="grid_3">
+					tel. +39 0432 12345678<br/>
+					fax. +39 0432 12345678<br/>
+					email. info@tavernaparadiso.com
+				</div>
+				<div class="clear"></div>
 			</footer>
-			<div class="clear"></div>
 		</div>
 	</body>
 </html>'''

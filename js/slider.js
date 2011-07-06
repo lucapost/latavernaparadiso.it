@@ -1,3 +1,7 @@
 $(function(){
-	    window.myFlux = new flux.slider('#slider');
+	window.mf = new flux.slider('#slider', {
+        	autoplay: true,
+	        pagination: false,
+	        delay: 3000
+	});
 });

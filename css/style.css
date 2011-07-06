@@ -17,6 +17,10 @@ body {
 	color: black;
 }
 
+h2 {
+	font-size: 16px;
+}
+
 header {
 	margin-top: 20px;
 }
@@ -24,6 +28,10 @@ header {
 #center {
 	background-color: red;
 	height: 420px;
+}
+
+#main {
+	background:url(/images/stemma.png) no-repeat center center;
 }
 
 .horizontalaccordion {
@@ -46,8 +54,7 @@ header {
 	list-style:none;
 	width:35px;
 	height: 420px;
-
-    /* CSS3 Transitions */
+    	/* CSS3 Transitions */
 	transition: width 0.5s ease-in-out;
 	-moz-transition: width 0.5s ease-in-out;
 	-webkit-transition: width 0.5s ease-in-out;
@@ -58,18 +65,17 @@ header {
 	display:block;
 	float:left;
 	margin: 0;
-	padding: 0px 0 0 0;
+	padding: 0;
+	padding-left: 20px;
 	height:35px;
 	width:420px;
-
-    /* Decorative CSS */
+    	/* Decorative CSS */
 	line-height: 35px;
 	text-decoration:none;
 	text-transform:uppercase;
 	color: #000;
 	background:#cccccc;
-
-    /* CSS3 Transform Rotate & Translate */
+    	/* CSS3 Transform Rotate & Translate */
 	white-space:nowrap;
 	-moz-transform: rotate(90.0deg) translate(-35px,0px);  /* FF3.5+ */
 	-moz-transform-origin: 0 100%;
@@ -83,8 +89,7 @@ header {
 	         progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff999999, endColorstr=#ffcccccc);  /* IE6,IE7 */
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1.0)"
 	         "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff999999, endColorstr=#ffcccccc)"; /* IE8 */
-
-    /* CSS3 Gradient Effect */
+    	/* CSS3 Gradient Effect */
 	background: -moz-linear-gradient( top, #999999, #cccccc);
 	background: -webkit-gradient(linear, left top, left bottom, from(#999999), to(#cccccc));
 }
@@ -99,9 +104,10 @@ header {
 	*top:0px;       /* IE7 Hack */
 	*left:0px;      /* IE7 Hack */
 	margin:20px;
-	padding:0;
-	width:360px;
-	height:380px;
+	padding:20px;
+	width:320px;
+	height:340px;
+	border-radius: 5px;
 }
 
 .horizontalaccordion>ul>li:hover {
@@ -114,11 +120,10 @@ header {
 }
 
 .horizontalaccordion:hover>ul>li:hover>h2 {
-    /* Decorative CSS */
+	/* Decorative CSS */
 	color:#fff;
 	background:#000000;
-
-    /* CSS3 Gradient Effect */
+    	/* CSS3 Gradient Effect */
 	background: -moz-linear-gradient( top, #454545, #000000); /* FF, Flock */
 	background: -webkit-gradient(linear, left top, left bottom, from(#454545), to(#000000)); /* Safari, Chrome */
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.0)
@@ -130,6 +135,30 @@ header {
 .horizontalaccordion>ul>li>h2:hover {
 	cursor:pointer;
 }
+
+#slider {
+	margin-top: 20px;
+}
+
+#slider .pagination {
+    list-style:none outside none;
+}
+
+#slider .pagination li {
+    cursor:pointer;
+    display:inline-block;
+    margin-left:0;
+    background-color:grey;
+    border-radius:10px 10px 10px 10px;
+    height:8px;
+    text-indent:10000px;
+    width:8px;
+}
+
+#slider .pagination li.current {
+    background-color:black;
+}
+
 section {
 	margin-top: 20px;
 	height: 380px;
@@ -137,6 +166,10 @@ section {
 }
 
 #images {
-	margin-top: 20px;
 	height: 380px;
+}
+
+footer {
+	margin-top: 20px;
+	line-height: 20px;
 }
