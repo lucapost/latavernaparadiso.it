@@ -12,7 +12,7 @@ Content For Panel 1.
 
 notextile. </section></li><li>
 
-h2. Specialità
+h2. Gestori
 
 notextile. <section>
 
@@ -20,7 +20,7 @@ Content For Panel 2
 
 notextile. </section></li><li>
 
-h2. Cucina
+h2. Piatti
 
 notextile. <section>
 
