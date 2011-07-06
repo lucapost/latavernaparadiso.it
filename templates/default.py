@@ -36,7 +36,7 @@ def header(node):
 		<div id="top" class="container_12">
 			<header class="grid_12 clearfix">
 				<div id="title">
-					<h1 class="hide">''' + site_name + '''</h1>
+					<h1>''' + site_name + '''</h1>
 				</div>	
 				<div id="subtitle">
 					<p>''' + site_desc + '''</p>
@@ -55,15 +55,33 @@ def footer(node):
 		</div>
 		<div id="bottom" class="container_12">
 			<footer>
-				<div class="grid_3">
+				<div class="grid_3 alpha">
+					<div>
 					di Manuela Vogrig e<br/>
 					Via Pinco Pallino 1<br/>
-					Cividale del Friuli, Udine, Italy
+					Cividale del Friuli, Udine, Italy<br/>
+					p. iva: xxxxxxxxxxxxxxxxxxxxxx
+					</div>
 				</div>					
 				<div class="grid_3">
+					<div>
 					tel. +39 0432 12345678<br/>
 					fax. +39 0432 12345678<br/>
 					email. info@tavernaparadiso.com
+					</div>
+				</div>
+				<div class="grid_3">
+					<div>
+					<a href="#">privacy</a><br/>
+					<a href="#">license</a><br/>
+					<a href="#">webmaster</a>
+					</div>
+				</div>
+				<div class="grid_3 clearfix omega">
+					<div>
+					<a href="#">twitter</a><br/>
+					<a href="#">facebook</a>
+					</div>
 				</div>
 				<div class="clear"></div>
 			</footer>
