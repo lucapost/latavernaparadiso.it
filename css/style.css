@@ -18,6 +18,11 @@ body {
 	background-color: white;
 }
 
+h1 {
+	font-size: 36px;
+	line-height: 40px;
+}
+
 h2 {
 	font-size: 16px;
 }
@@ -48,8 +53,32 @@ a:hover {
 
 header {
 	margin-top: 20px;
+	font-size: 20px;
 }
 
+#title a {
+	color: black;
+	transition: color;
+	transition-duration: 5000ms;
+	-webkit-transition: color; 
+	-webkit-transition-duration: 5000ms;
+	-moz-transition: color; 
+	-moz-transition-duration: 5000ms;
+	-o-transition: color; 
+	-o-transition-duration: 5000ms;
+}
+
+#title a:hover {
+	color: red;
+	transition: color;
+	transition-duration: 100ms;
+	-webkit-transition: color;
+	-webkit-transition-duration: 100ms;
+	-moz-transition: color;
+	-moz-transition-duration: 100ms;
+	-o-transition: color;
+	-o-transition-duration: 100ms;
+}
 #center {
 	background-color: red;
 	height: 420px;

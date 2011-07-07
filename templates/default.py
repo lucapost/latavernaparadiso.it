@@ -37,7 +37,7 @@ def header(node):
 		<div id="top" class="container_16">
 			<header class="grid_16 clearfix">
 				<div id="title">
-					<h1>''' + site_name + '''</h1>
+					<h1><a>T</a><a>a</a><a>v</a><a>e</a><a>r</a><a>n</a><a>a</a><a> P</a><a>a</a><a>r</a><a>a</a><a>d</a><a>i</a><a>s</a><a>o</a></h1>
 				</div>	
 				<div id="subtitle">
 					<p>''' + site_desc + '''</p>
