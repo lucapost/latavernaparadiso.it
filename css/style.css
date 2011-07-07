@@ -22,6 +22,30 @@ h2 {
 	font-size: 16px;
 }
 
+a {
+	color: black;
+	transition: color;
+	transition-duration: 4000ms;
+	-webkit-transition: color; 
+	-webkit-transition-duration: 4000ms;
+	-moz-transition: color; 
+	-moz-transition-duration: 4000ms;
+	-o-transition: color; 
+	-o-transition-duration: 4000ms;
+}
+
+a:hover {
+	color: red;
+	transition: color;
+	transition-duration: 400ms;
+	-webkit-transition: color;
+	-webkit-transition-duration: 400ms;
+	-moz-transition: color;
+	-moz-transition-duration: 400ms;
+	-o-transition: color;
+	-o-transition-duration: 400ms;
+}
+
 header {
 	margin-top: 20px;
 }
