@@ -61,6 +61,7 @@ def footer(node):
 					di Alessio Mauso e Manuela Vogrig<br/>
 					Via Cavour 21<br/>
 					Cividale del Friuli, Udine, Italy<br/>
+					<a href="http://goo.gl/7wZJm">maps</a><br/>
 					p.iva: 02629540309
 					</div>
 				</div>					
@@ -71,9 +72,8 @@ def footer(node):
 					</div>
 				</div>
 				<div id="webmaster" class="grid_8 clearfix omega">
-					<div>
-					<a href="http://luca.postregna.name">webmaster</a>
-					</div>
+						&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
+						update: ''' + str(current_time.strftime("%Y%m%d")) + ''' 
 				</div>
 				<div class="clear"></div>
 			</footer>
