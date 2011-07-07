@@ -37,13 +37,13 @@ a {
 a:hover {
 	color: red;
 	transition: color;
-	transition-duration: 400ms;
+	transition-duration: 600ms;
 	-webkit-transition: color;
-	-webkit-transition-duration: 400ms;
+	-webkit-transition-duration: 600ms;
 	-moz-transition: color;
-	-moz-transition-duration: 400ms;
+	-moz-transition-duration: 600ms;
 	-o-transition: color;
-	-o-transition-duration: 400ms;
+	-o-transition-duration: 600ms;
 }
 
 header {

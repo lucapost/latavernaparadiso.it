@@ -13,7 +13,7 @@ home = "home"
 path_separator = ">"
 src_ext = {"textile": "textile"}
 dst_ext = "html"
-hidden = set(["404.textile", "500.textile", "privacy.textile", "info.textile"])
+hidden = set(["404.textile", "500.textile"])
 current_time = datetime.datetime.now()
 
 def header(node):
@@ -57,23 +57,21 @@ def footer(node):
 		<div id="bottom" class="container_16">
 			<footer>
 				<div class="grid_4 alpha">
-					<div>
 					di Alessio Mauro e Manuela Vogrig<br/>
-					Via Cavour 21<br/>
-					Cividale del Friuli, Udine, Italy<br/>
-					<a href="http://goo.gl/7wZJm">maps</a><br/>
-					p.iva: 02629540309
-					</div>
+					<a href="http://goo.gl/7wZJm">Via Cavour 21<br/>
+					Cividale del Friuli, Udine, Italy<br/></a>
 				</div>					
 				<div class="grid_4">
-					<div>
 					tel/fax: +39 0432 732438<br/>
 					email: info@tavernaparadisoXXXX.it
-					</div>
 				</div>
-				<div id="webmaster" class="grid_8 clearfix omega">
-						&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
-						update: ''' + str(current_time.strftime("%Y%m%d")) + ''' 
+				<div class="grid_4">
+					cf: mralss72b08c758c<br/>
+					p.iva: 02629540309
+				</div>
+				<div class="grid_4 clearfix omega">
+					&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
+					update: ''' + str(current_time.strftime("%Y%m%d")) + ''' 
 				</div>
 				<div class="clear"></div>
 			</footer>
