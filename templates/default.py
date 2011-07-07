@@ -71,6 +71,7 @@ def footer(node):
 				</div>
 				<div class="grid_4 clearfix omega">
 					&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
+					<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a><br/>
 					update: ''' + str(current_time.strftime("%Y%m%d")) + ''' 
 				</div>
 				<div class="clear"></div>
