@@ -28,13 +28,14 @@ def header(node):
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
 		<script type="text/javascript" src="/js/flux.min.js"></script>  
 		<script type="text/javascript" src="/js/slider.js"></script>  
+		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js"></script>  
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="''' + author + '''" />
 		<title>''' + site_name + ' - ' + node.name + '''</title>
 	</head>
 	<body>
-		<div id="top" class="container_12">
-			<header class="grid_12 clearfix">
+		<div id="top" class="container_16">
+			<header class="grid_16 clearfix">
 				<div id="title">
 					<h1>''' + site_name + '''</h1>
 				</div>	
@@ -45,7 +46,7 @@ def header(node):
 			<div class="clear"></div>
 		</div>
 		<div id="center">
-			<div class="container_12">
+			<div class="container_16">
 '''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
@@ -53,34 +54,25 @@ def footer(node):
 				<div class="clear"></div>
 			</div>
 		</div>
-		<div id="bottom" class="container_12">
+		<div id="bottom" class="container_16">
 			<footer>
-				<div class="grid_3 alpha">
+				<div class="grid_4 alpha">
 					<div>
-					di Manuela Vogrig e<br/>
-					Via Pinco Pallino 1<br/>
+					di Alessio Mauso e Manuela Vogrig<br/>
+					Via Cavour 21<br/>
 					Cividale del Friuli, Udine, Italy<br/>
-					p. iva: xxxxxxxxxxxxxxxxxxxxxx
+					p.iva: 02629540309
 					</div>
 				</div>					
-				<div class="grid_3">
+				<div class="grid_4">
 					<div>
-					tel. +39 0432 12345678<br/>
-					fax. +39 0432 12345678<br/>
-					email. info@tavernaparadiso.com
+					tel/fax: +39 0432 732438<br/>
+					email: info@tavernaparadisoXXXX.it
 					</div>
 				</div>
-				<div class="grid_3">
+				<div id="webmaster" class="grid_8 clearfix omega">
 					<div>
-					<a href="#">privacy</a><br/>
-					<a href="#">license</a><br/>
-					<a href="#">webmaster</a>
-					</div>
-				</div>
-				<div class="grid_3 clearfix omega">
-					<div>
-					<a href="#">twitter</a><br/>
-					<a href="#">facebook</a>
+					<a href="http://luca.postregna.name">webmaster</a>
 					</div>
 				</div>
 				<div class="clear"></div>

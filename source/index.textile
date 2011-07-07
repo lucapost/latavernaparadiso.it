@@ -1,22 +1,50 @@
-notextile. <div id="main" class="grid_7"><div class="horizontalaccordion">
+notextile. <div id="main" class="grid_9"><div class="horizontalaccordion">
 <ul><li>
     
 h2. Links
 	
 notextile. <section>
 
-Content For Panel 1.
-Content For Panel 1.
-Content For Panel 1.
-Content For Panel 1.
+La Taverna Paradiso suggerisce,
+
+* "cividale.com":http://cividale.com/
+* "santuariocastelmonte.it":http://www.santuariocastelmonte.it/
+
+e per terminare la tua serata,
+
+* "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
+* "Caffe al Corso", Cividale
+* "Giona Club", V. Pasubio 14 - Premariacco (UD)
 
 notextile. </section></li><li>
 
-h2. Gestori
+h2. Notizie
+
+notextile. <section>
+<div id="jTweetsAnywhereSample"></div>
+<script>
+$('#jTweetsAnywhereSample').jTweetsAnywhere({
+    username: 'lucaposttest',
+    count: 4
+});
+</script>
+</section></li><li>
+
+h2. Specialità
 
 notextile. <section>
 
-Content For Panel 2
+Tra le pietanze d'interesse, la Taverna Paradiso annovera,
+
+* i formaggi della "Latteria di Cividale":http://www.latteriacividale.it/
+* le carni di "Jolanda de Colò":http://www.jolandadecolo.it/
+
+che possono essere accompagnati dai vini,
+
+* elenco vini...
+* elenco vini...
+
+e dalle particolari birre del "Birrificio Menabrea":http://www.birramenabrea.com/ di Biella.
 
 notextile. </section></li><li>
 
@@ -24,7 +52,15 @@ h2. Piatti
 
 notextile. <section>
 
-Content For Panel 3.
+La Taverna Paradiso d'estate offre piatti come,
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti last)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
 
 notextile. </section></li><li>
 
@@ -32,12 +68,20 @@ h2. Taverna
 
 notextile. <section>
 	
-Content For Panel 4.
+Nata nel 1840, la Taverna Paradiso è luogo storico di ristoro a Cividale del Friuli. 
+
+La Taverna Paradiso intepreta la cucina friulana in chiave moderna, offrendo ai suoi ospiti piatti a base di carne e pesce accompagnati dai vini del Collio.
+
+La Taverna Paradiso rende disponibili 55 coperti, più 12 esterni nell'accogliente cortile. 
+
+L'accesso degli animali ai locali è consentito.
+
+Turno di chiusura il lunedì sera ed il martedì.
 
 notextile. </section></li></ul>
 </div><!-- chiuso horizontalaccordin -->
 </div><!-- chiuso main-->
-<div id="images" class="grid_5 clearfix">
+<div id="images" class="grid_7 clearfix">
 	<div id="slider">
 		<img src="/images/01.jpg" alt="" />
 		<img src="/images/02.jpg" alt="" />

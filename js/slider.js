@@ -1,7 +1,7 @@
 $(function(){
 	window.mf = new flux.slider('#slider', {
         	autoplay: true,
-	        pagination: true,
+	        pagination: false,
 	        delay: 6000
 	});
 });
