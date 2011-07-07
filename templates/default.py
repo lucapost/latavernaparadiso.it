@@ -58,7 +58,7 @@ def footer(node):
 			<footer>
 				<div class="grid_4 alpha">
 					di Alessio Mauro e Manuela Vogrig<br/>
-					<a href="http://goo.gl/7wZJm">Via Cavour 21<br/>
+					<a href="http://maps.google.it/maps/place?q=Taverna&hl=it&cid=3477028844032398125">Via Cavour 21<br/>
 					Cividale del Friuli, Udine, Italy<br/></a>
 				</div>					
 				<div class="grid_4">
@@ -69,10 +69,10 @@ def footer(node):
 					cf: mralss72b08c758c<br/>
 					p.iva: 02629540309
 				</div>
-				<div class="grid_4 clearfix omega">
+				<div id="webmaster" class="grid_4 clearfix omega">
 					&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
-					<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a><br/>
-					update: ''' + str(current_time.strftime("%Y%m%d")) + ''' 
+					update: ''' + str(current_time.strftime("%Y%m%d")) + '''<br/>
+					<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 				</div>
 				<div class="clear"></div>
 			</footer>
