@@ -85,14 +85,6 @@ notextile. </section></li></ul>
 </div><!-- chiuso horizontalaccordin -->
 </div><!-- chiuso main-->
 <div id="images" class="grid_7 clearfix">
-	<div id="transitions">
-                <ul id="controls">
-                    <li><a href="#" id="start">Play</a></li>
-                    <li><a href="#" id="stop">Pause</a></li>
-                    <li><a href="#" id="next">Next</a></li>
-                    <li><a href="#" id="prev">Prev</a></li>
-                </ul>
-	</div>
 	<div id="slider">
 		<img src="/images/01.jpg" alt="" />
 		<img src="/images/02.jpg" alt="" />
@@ -103,5 +95,13 @@ notextile. </section></li></ul>
 		<img src="/images/01.jpg" alt="" />
 		<img src="/images/02.jpg" alt="" />
 		<img src="/images/03.jpg" alt="" />
+	</div>
+	<div id="transitions">
+                <ul id="controls">
+                    <li><a href="#" id="start">Play</a></li>
+                    <li><a href="#" id="stop">Pause</a></li>
+                    <li><a href="#" id="next">Next</a></li>
+                    <li><a href="#" id="prev">Prev</a></li>
+                </ul>
 	</div>
 </div><!-- chiuso images-->

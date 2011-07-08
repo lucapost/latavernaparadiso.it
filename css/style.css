@@ -109,10 +109,10 @@ header {
 	width:20px;
 	height: 420px;
     	/* CSS3 Transitions */
-	transition: width 1.5s ease-in-out;
-	-moz-transition: width 1.5s ease-in-out;
-	-webkit-transition: width 1.5s ease-in-out;
-	-o-transition: width 1.5s ease-in-out;
+	transition: width 1s ease-in-out;
+	-moz-transition: width 1s ease-in-out;
+	-webkit-transition: width 1s ease-in-out;
+	-o-transition: width 1s ease-in-out;
 }
 
 .horizontalaccordion>ul>li>h2 {
@@ -188,6 +188,10 @@ header {
 
 .horizontalaccordion>ul>li>h2:hover {
 	cursor:pointer;
+}
+
+#slider {
+	margin-top:20px;
 }
 
 #slider .pagination {
