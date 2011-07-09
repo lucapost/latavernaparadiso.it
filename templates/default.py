@@ -4,7 +4,7 @@
 import datetime
 
 site_name = "Taverna Paradiso"
-site_desc = "Ristorantori a Cividale del Friuli"
+site_desc = "Ristoratori a Cividale del Friuli"
 author = "Luca Postregna"
 src_dir = "source"
 dst_dir = "."
