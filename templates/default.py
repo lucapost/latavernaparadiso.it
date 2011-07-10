@@ -79,8 +79,6 @@ def footer(node):
 				<a href="http://twitter.com/lucaposttest"><div id="twitter"></div></a>
 			</div>
 			<div class="clear"></div>
-		</div>
-		<div class="container_16">
 			<footer class="grid_16 clearfix">
 				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
