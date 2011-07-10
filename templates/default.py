@@ -56,10 +56,12 @@ def footer(node):
 				di Alessio Mauro e Manuela Vogrig<br/>
 				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli<br/>
 				Udine, Italy</a><br/><br/>
-				tel/fax: +39 0432 732438<br/>
-				email: info@tavernaparadisoXXXX.it<br/><br/>
+
 				cf: mralss72b08c758c<br/>
-				p.iva: 02629540309
+				p.iva: 02629540309<br/><br/>
+
+				tel/fax: +39 0432 732438<br/>
+				email: info@tavernaparadisoXXXX.it
 			</div>
 			<div class="grid_8">
 				<h2>Appuntamenti</h2>
@@ -71,7 +73,14 @@ def footer(node):
 					});
 				</script>
 			</div>
+			<div class="grid_4 clearfix">
+				<h2>Social</h2>
+				<a href="http://www.facebook.com/profile.php?id=100002548877960"><div id="facebook"></div></a>
+				<a href="http://twitter.com/lucaposttest"><div id="twitter"></div></a>
+			</div>
 			<div class="clear"></div>
+		</div>
+		<div class="container_16">
 			<footer class="grid_16 clearfix">
 				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::

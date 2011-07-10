@@ -245,9 +245,25 @@ section img.piatti {
 	margin-right:20px;
 }
 
+#facebook {
+	width: 218;
+	height: 78px;
+	background:url(/images/facebook.png);
+	border-radius: 10px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+#twitter {
+	width: 218;
+	height: 78px;
+	background:url(/images/twitter.png);
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
 footer {
 	border-top: 1px dotted black;
-	margin-left: 10px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	line-height: 20px;
