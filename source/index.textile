@@ -1,4 +1,4 @@
-notextile. <div id="main" class="grid_9"><div class="horizontalaccordion">
+notextile. <div id="main" class="horizontalaccordion grid_9">
 <ul><li>
     
 h2. Links
@@ -16,22 +16,17 @@ e per terminare la tua serata,
 * "Caffe al Corso", Cividale
 * "Giona Club", V. Pasubio 14 - Premariacco (UD)
 
-notextile. </section></li><li>
+notextile. </section></li>
+<li>
 
-h2. Notizie
+h2. Gestori
 
 notextile. <section>
 
-Le ultime novità della Taverna Paradiso,
+gestori
 
-notextile. <div id="jTweetsAnywhereSample"></div>
-<script>
-$('#jTweetsAnywhereSample').jTweetsAnywhere({
-    username: 'lucaposttest',
-    count: 3
-});
-</script>
-</section></li><li>
+notextile. </section></li>
+<li>
 
 h2. Specialità
 
@@ -49,7 +44,8 @@ che possono essere accompagnati dai vini,
 
 e dalle particolari birre del "Birrificio Menabrea":http://www.birramenabrea.com/ di Biella.
 
-notextile. </section></li><li>
+notextile. </section></li>
+<li>
 
 h2. Piatti
 
@@ -65,7 +61,8 @@ La Taverna Paradiso d'estate offre piatti come,
 
 !(piatti last)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
 
-notextile. </section></li><li>
+notextile. </section></li>
+<li>
 
 h2. Taverna
 
@@ -83,15 +80,8 @@ Turno di chiusura il lunedì sera ed il martedì.
 
 notextile. </section></li></ul>
 </div><!-- chiuso horizontalaccordin -->
-</div><!-- chiuso main-->
 <div id="images" class="grid_7 clearfix">
 	<div id="slider">
-		<img src="/images/01.jpg" alt="" />
-		<img src="/images/02.jpg" alt="" />
-		<img src="/images/03.jpg" alt="" />
-		<img src="/images/01.jpg" alt="" />
-		<img src="/images/02.jpg" alt="" />
-		<img src="/images/03.jpg" alt="" />
 		<img src="/images/01.jpg" alt="" />
 		<img src="/images/02.jpg" alt="" />
 		<img src="/images/03.jpg" alt="" />

@@ -2,7 +2,8 @@
 @import url(/css/text.css);
 @import url(/css/960.css);
 @import url(http://fonts.googleapis.com/css?family=Nobile);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two&v1);
+@import url(http://fonts.googleapis.com/css?family=Calligraffitti&v1);
 @import url(/css/hashgrid.css);
 
 html,
@@ -18,13 +19,20 @@ body {
 	background-color: white;
 }
 
+h1,
+h2 {
+	font-family: 'Calligraffitti', arial, serif; 
+	text-shadow: 2px 2px 2px #aaa;
+}
+
 h1 {
-	font-size: 36px;
-	line-height: 40px;
+	font-size: 60px;
+	line-height: 60px;
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 36px;
+	line-height: 40px;
 }
 
 a {
@@ -52,39 +60,21 @@ a:hover {
 }
 
 header {
-	margin-top: 20px;
-	font-size: 20px;
+	margin: 40px 0 0 0;
 }
 
-#title a {
-	color: black;
-	transition: color;
-	transition-duration: 5000ms;
-	-webkit-transition: color; 
-	-webkit-transition-duration: 5000ms;
-	-moz-transition: color; 
-	-moz-transition-duration: 5000ms;
-	-o-transition: color; 
-	-o-transition-duration: 5000ms;
-}
-
-#title a:hover {
-	color: red;
-	transition: color;
-	transition-duration: 100ms;
-	-webkit-transition: color;
-	-webkit-transition-duration: 100ms;
-	-moz-transition: color;
-	-moz-transition-duration: 100ms;
-	-o-transition: color;
-	-o-transition-duration: 100ms;
-}
 #center {
 	background-color: brown;
+	margin-bottom: 20px;
 }
 
 #main {
 	background:url(/images/stemma.png) no-repeat center center;
+}
+
+#main h2 {
+	font-size: 16px;
+	font-family: 'Nobile', Arial, Serif;
 }
 
 .horizontalaccordion {
@@ -189,6 +179,10 @@ header {
 	cursor:pointer;
 }
 
+#images {
+	height: 380px;
+}
+
 #slider {
 	margin-top:20px;
 }
@@ -256,8 +250,7 @@ header {
 }
 
 section {
-	margin-top: 20px;
-	height: 380px;
+	margin: 20px;
 	background-color: white;
 }
 
@@ -269,27 +262,32 @@ section img.piatti {
 	margin-right:20px;
 }
 
-#images {
-	height: 380px;
-}
-
 footer {
-	margin-top: 20px;
+	border-top: 1px dotted black;
 	margin-left: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	line-height: 20px;
+	text-align: center;
 }
 
-#webmaster {
+#right {
 	text-align: right;
 }
 
 .jta-tweet-body {
 	text-transform: lowercase;
+	padding:0;
+	margin:0;
 }
 .jta-tweet-retweeter {
 	display: none;
+	padding:0;
+	margin:0;
 }
 
 .jta-tweet-timestamp {
+	padding:0;
+	margin:0;
 	padding-left: 10px;
 }

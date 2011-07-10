@@ -34,48 +34,50 @@ def header(node):
 		<title>''' + site_name + ' - ' + node.name + '''</title>
 	</head>
 	<body>
-		<div id="top" class="container_16">
+		<div class="container_16">
 			<header class="grid_16 clearfix">
-				<div id="title">
-					<h1><a>T</a><a>a</a><a>v</a><a>e</a><a>r</a><a>n</a><a>a</a><a> P</a><a>a</a><a>r</a><a>a</a><a>d</a><a>i</a><a>s</a><a>o</a></h1>
-				</div>	
-				<div id="subtitle">
-					<p>''' + site_desc + '''</p>
-				</div>
+				<h1>''' + site_name + '''</h1>
+				<h2>''' + site_desc + '''</h2>
 			</header>
 			<div class="clear"></div>
 		</div>
-		<div id="center">
+		<div id=center>
 			<div class="container_16">
 '''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
-				<div class="clear"></div>
 			</div>
-		</div>
-		<div id="bottom" class="container_16">
-			<footer>
-				<div class="grid_4 alpha">
-					di Alessio Mauro e Manuela Vogrig<br/>
-					<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21<br/>
-					Cividale del Friuli, Udine, Italy<br/></a>
-				</div>					
-				<div class="grid_4">
-					tel/fax: +39 0432 732438<br/>
-					email: info@tavernaparadisoXXXX.it
-				</div>
-				<div class="grid_4">
-					cf: mralss72b08c758c<br/>
-					p.iva: 02629540309
-				</div>
-				<div id="webmaster" class="grid_4 clearfix omega">
-					&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a><br/>
-					update: ''' + str(current_time.strftime("%Y%m%d")) + '''<br/>
-					<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
-				</div>
-				<div class="clear"></div>
+		</div><!-- chiuso center -->
+		<div class="container_16">
+			<div class="grid_4">
+				<h2>Contatti</h2>
+				Taverna Paradiso <br/>
+				di Alessio Mauro e Manuela Vogrig<br/>
+				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli<br/>
+				Udine, Italy</a><br/><br/>
+				tel/fax: +39 0432 732438<br/>
+				email: info@tavernaparadisoXXXX.it<br/><br/>
+				cf: mralss72b08c758c<br/>
+				p.iva: 02629540309
+			</div>
+			<div class="grid_8">
+				<h2>Appuntamenti</h2>
+				<div id="jTweetsAnywhereSample"></div>
+				<script>
+					$('#jTweetsAnywhereSample').jTweetsAnywhere({
+					username: 'lucaposttest',
+					count: 3
+					});
+				</script>
+			</div>
+			<div class="clear"></div>
+			<footer class="grid_16 clearfix">
+				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
+				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
+				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 			</footer>
+			<div class="clear"></div>
 		</div>
 	</body>
 </html>'''
