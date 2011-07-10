@@ -75,6 +75,7 @@ header {
 #main h2 {
 	font-size: 18px;
 	font-family: 'Gruppo', Arial, Serif;
+	line-height: 20px;
 }
 
 .horizontalaccordion {
@@ -275,7 +276,6 @@ footer {
 }
 
 .jta-tweet-body {
-	text-transform: lowercase;
 	padding:0;
 	margin:0;
 }
