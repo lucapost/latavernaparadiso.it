@@ -35,11 +35,11 @@ def header(node):
 	</head>
 	<body>
 		<div class="container_16">
-			<header class="grid_9">
+			<header class="grid_11">
 				<h1>''' + site_name + '''</h1>
 				<h2>''' + site_desc + '''</h2>
 			</header>
-			<div id="contacts" class="grid_7 clearfix">
+			<div id="contacts" class="grid_5 clearfix">
 				di Alessio Mauro e Manuela Vogrig<br/>
 				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 
