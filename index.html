@@ -7,7 +7,7 @@
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
 		<script type="text/javascript" src="/js/flux.min.js"></script>  
 		<script type="text/javascript" src="/js/slider.js"></script>  
-		<script type="text/javascript" src="/js/jquery.zrssfeed.min.js"></script>  
+		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script>
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="Luca Postregna" />
 		<title>Taverna Paradiso - index</title>
@@ -59,16 +59,16 @@
 	<h2>Novità</h2>
 
 <section>
-<script type="text/javascript">
-$(document).ready(function () {
-	$('#test').rssfeed('http://feeds.feedburner.com/TavernaParadisosFacebookWall', {
-		limit: 5,
-		date: false,
-		header: false
-	});
+
+	<p>Segui la <a href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995">Taverna Paradiso su Facebook</a> </p>
+
+<div id="jTweetsAnywhereSample"></div>
+<script>
+$('#jTweetsAnywhereSample').jTweetsAnywhere({
+    username: 'lucaposttest',
+    count: 4
 });
 </script>
-<div id="test"></div>
 </section></li>
 <li>
 

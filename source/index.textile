@@ -22,16 +22,16 @@ notextile. </section></li>
 h2. Novità
 
 notextile. <section>
-<script type="text/javascript">
-$(document).ready(function () {
-	$('#test').rssfeed('http://feeds.feedburner.com/TavernaParadisosFacebookWall', {
-		limit: 5,
-		date: false,
-		header: false
-	});
+
+Segui la "Taverna Paradiso su Facebook":http://www.facebook.com/pages/Taverna-Paradiso/189399674446995 
+
+notextile. <div id="jTweetsAnywhereSample"></div>
+<script>
+$('#jTweetsAnywhereSample').jTweetsAnywhere({
+    username: 'lucaposttest',
+    count: 4
 });
 </script>
-<div id="test"></div>
 </section></li>
 <li>
 

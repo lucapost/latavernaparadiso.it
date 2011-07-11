@@ -251,23 +251,6 @@ section img.piatti {
 	margin-right:20px;
 }
 
-#facebook {
-	width: 218;
-	height: 78px;
-	background:url(/images/facebook.png);
-	border-radius: 10px;
-	border: 1px solid black;
-	margin-bottom: 20px;
-}
-
-#twitter {
-	width: 218;
-	height: 78px;
-	background:url(/images/twitter.png);
-	border-radius: 10px;
-	border: 1px solid black;
-}
-
 footer {
 	margin-bottom: 20px;
 	text-align: center;
@@ -277,10 +260,10 @@ footer {
 	text-align: right;
 }
 
-#feed {
-	overflow: auto;
+.jta-tweet-retweeter {
+	display: none;
 }
 
-#feed h4 {
-	display:none;
+.jta-tweet-timestamp {
+	display: none;
 }
