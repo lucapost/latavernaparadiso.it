@@ -63,7 +63,8 @@ header {
 	margin: 40px 0 0 0;
 }
 
-#address {
+#contacts {
+	margin: 20px 0 0 0;
 	text-align: right;
 }
 
@@ -268,9 +269,7 @@ section img.piatti {
 }
 
 footer {
-	margin-top: 20px;
 	margin-bottom: 20px;
-	line-height: 20px;
 	text-align: center;
 }
 

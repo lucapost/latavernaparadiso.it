@@ -18,8 +18,7 @@
 				<h1>Taverna Paradiso</h1>
 				<h2>Ristoratori a Cividale del Friuli</h2>
 			</header>
-			<div id="address" class="grid_7 clearfix">
-			<br/>
+			<div id="contacts" class="grid_7 clearfix">
 				di Alessio Mauro e Manuela Vogrig<br/>
 				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 
@@ -60,14 +59,16 @@
 	<h2>Novità</h2>
 
 <section>
-<div id="feed"><div>
 <script type="text/javascript">
 $(document).ready(function () {
-  $('#feed').rssfeed('www.facebook.com/feeds/page.php?id=189399674446995&format=rss20', {
-    limit: 5
+  $('#feed').rssfeed('http://www.facebook.com/feeds/page.php?id=189399674446995&format=rss20', {
+    limit: 5,
+    header: false,
+    date: false
   });
 });
 </script>
+<div id="feed"></div>
 </section></li>
 <li>
 

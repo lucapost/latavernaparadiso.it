@@ -22,14 +22,16 @@ notextile. </section></li>
 h2. Novità
 
 notextile. <section>
-<div id="feed"><div>
 <script type="text/javascript">
 $(document).ready(function () {
-  $('#feed').rssfeed('www.facebook.com/feeds/page.php?id=189399674446995&format=rss20', {
-    limit: 5
+  $('#feed').rssfeed('http://www.facebook.com/feeds/page.php?id=189399674446995&format=rss20', {
+    limit: 5,
+    header: false,
+    date: false
   });
 });
 </script>
+<div id="feed"></div>
 </section></li>
 <li>
 
