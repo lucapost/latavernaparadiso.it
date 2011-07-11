@@ -19,13 +19,18 @@ e per terminare la tua serata,
 notextile. </section></li>
 <li>
 
-h2. Gestori
+h2. Novità
 
 notextile. <section>
-
-Gestori
-
-notextile. </section></li>
+<div id="feed"><div>
+<script type="text/javascript">
+$(document).ready(function () {
+  $('#feed').rssfeed('www.facebook.com/feeds/page.php?id=189399674446995&format=rss20', {
+    limit: 5
+  });
+});
+</script>
+</section></li>
 <li>
 
 h2. Specialità

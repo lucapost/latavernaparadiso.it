@@ -28,6 +28,7 @@ def header(node):
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
 		<script type="text/javascript" src="/js/flux.min.js"></script>  
 		<script type="text/javascript" src="/js/slider.js"></script>  
+		<script type="text/javascript" src="/js/jquery.zrssfeed.min.js"></script>  
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="''' + author + '''" />
 		<title>''' + site_name + ' - ' + node.name + '''</title>
@@ -40,13 +41,13 @@ def header(node):
 			</header>
 			<div id="address" class="grid_7 clearfix">
 			<br/>
-			     di Alessio Mauro e Manuela Vogrig<br/>
-			     Via Cavour 21, Cividale del Friuli - UD - Italy<br/><br/>
+				di Alessio Mauro e Manuela Vogrig<br/>
+				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 
-			     tel/fax: +39 0432 732438<br/>
-			     email: info@tavernaparadisoXXXX.it<br/><br/>
+				tel/fax: +39 0432 732438<br/>
+			     	email: info@tavernaparadisoXXXX.it<br/><br/>
 
-			     p.iva: 02629540309
+			     	p.iva: 02629540309
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -59,23 +60,6 @@ def footer(node):
 			</div>
 		</div><!-- chiuso center -->
 		<div class="container_16">
-<!--			<div id="contacts" class="grid_4">
-				<h2>Contatti</h2>
-				Taverna Paradiso <br/>
-				di Alessio Mauro e Manuela Vogrig<br/>
-				<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli<br/>
-				Udine, Italy</a><br/><br/>
-
-				cf: mralss72b08c758c<br/>
-				p.iva: 02629540309<br/><br/>
-
-				tel/fax: +39 0432 732438<br/>
-				email: info@tavernaparadisoXXXX.it
-			</div> -->
-			<div class="grid_12 prefix_2 clearfix">
-				<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="700" height="400" show_faces="false" border_color="" stream="true" header="false"></fb:like-box>
-			</div>
-			<div class="clear"></div>
 			<footer class="grid_16 clearfix">
 				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
