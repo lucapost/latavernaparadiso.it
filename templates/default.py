@@ -62,8 +62,8 @@ def footer(node):
 			<footer class="grid_16 clearfix">
 				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> ::
-				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
-				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
+				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a> ::
+				update: ''' + str(current_time.strftime("%Y%m%d")) + '''
 			</footer>
 			<div class="clear"></div>
 		</div>
