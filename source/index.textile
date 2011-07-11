@@ -23,7 +23,7 @@ h2. Gestori
 
 notextile. <section>
 
-gestori
+Gestori
 
 notextile. </section></li>
 <li>

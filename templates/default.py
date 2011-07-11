@@ -35,10 +35,20 @@ def header(node):
 	</head>
 	<body>
 		<div class="container_16">
-			<header class="grid_16 clearfix">
+			<header class="grid_9">
 				<h1>''' + site_name + '''</h1>
 				<h2>''' + site_desc + '''</h2>
 			</header>
+			<div id="address" class="grid_7 clearfix">
+			<br/>
+			     di Alessio Mauro e Manuela Vogrig<br/>
+			     Via Cavour 21, Cividale del Friuli - UD - Italy<br/><br/>
+
+			     tel/fax: +39 0432 732438<br/>
+			     email: info@tavernaparadisoXXXX.it<br/><br/>
+
+			     p.iva: 02629540309
+			</div>
 			<div class="clear"></div>
 		</div>
 		<div id=center>
@@ -50,7 +60,7 @@ def footer(node):
 			</div>
 		</div><!-- chiuso center -->
 		<div class="container_16">
-			<div class="grid_4">
+<!--			<div id="contacts" class="grid_4">
 				<h2>Contatti</h2>
 				Taverna Paradiso <br/>
 				di Alessio Mauro e Manuela Vogrig<br/>
@@ -62,21 +72,9 @@ def footer(node):
 
 				tel/fax: +39 0432 732438<br/>
 				email: info@tavernaparadisoXXXX.it
-			</div>
-			<div class="grid_8">
-				<h2>Appuntamenti</h2>
-				<div id="jTweetsAnywhereSample"></div>
-				<script>
-					$('#jTweetsAnywhereSample').jTweetsAnywhere({
-					username: 'lucaposttest',
-					count: 3
-					});
-				</script>
-			</div>
-			<div class="grid_4 clearfix">
-				<h2>Social</h2>
-				<a href="http://www.facebook.com/profile.php?id=100002548877960"><div id="facebook"></div></a>
-				<a href="http://twitter.com/lucaposttest"><div id="twitter"></div></a>
+			</div> -->
+			<div class="grid_12 prefix_2 clearfix">
+				<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="700" height="400" show_faces="false" border_color="" stream="true" header="false"></fb:like-box>
 			</div>
 			<div class="clear"></div>
 			<footer class="grid_16 clearfix">
