@@ -152,8 +152,6 @@ header {
 	left:20px;
 	*top:0px;       /* IE7 Hack */
 	*left:0px;      /* IE7 Hack */
-	margin:20px;
-	padding:20px;
 	width:340px;
 	height:360px;
 	border-radius: 5px;
@@ -239,8 +237,9 @@ header {
 }
 
 section {
-	margin: 20px;
 	background-color: white;
+	margin: 20px;
+	padding: 20px;
 }
 
 section img {
