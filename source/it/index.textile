@@ -1,0 +1,95 @@
+notextile. <div id="main" class="horizontalaccordion grid_9">
+<ul><li>
+    
+h2. Links
+	
+notextile. <section>
+
+La Taverna Paradiso suggerisce,
+
+* "cividale.com":http://cividale.com/
+* "santuariocastelmonte.it":http://www.santuariocastelmonte.it/
+
+e per terminare la tua serata,
+
+* "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
+* "Caffe al Corso", Cividale
+* "Giona Club", V. Pasubio 14 - Premariacco (UD)
+
+notextile. </section></li>
+<li>
+
+h2. Novità
+
+notextile. <section>
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="340" height="360" show_faces="false" border_color="" stream="true" header="false"></fb:like-box>
+</section></li>
+<li>
+
+h2. Specialità
+
+notextile. <section>
+
+Tra le pietanze d'interesse, la Taverna Paradiso annovera,
+
+* i formaggi della "Latteria di Cividale":http://www.latteriacividale.it/
+* le carni di "Jolanda de Colò":http://www.jolandadecolo.it/
+
+che possono essere accompagnati dai vini,
+
+* elenco vini...
+* elenco vini...
+
+e dalle particolari birre del "Birrificio Menabrea":http://www.birramenabrea.com/ di Biella.
+
+notextile. </section></li>
+<li>
+
+h2. Piatti
+
+notextile. <section>
+
+La Taverna Paradiso d'estate offre piatti come,
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+!(piatti last)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+
+notextile. </section></li>
+<li>
+
+h2. Taverna
+
+notextile. <section>
+
+La Taverna Paradiso nasce a fine 1800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la taverna paradiso è ancora conosciuta con il nome di Bassanese. 
+	
+Intepreta la cucina friulana in chiave moderna, offrendo ai suoi ospiti piatti a base di carne e pesce accompagnati dai vini del Collio.
+
+Sono disponibili 55 coperti, più 12 esterni nell'accogliente cortile. 
+
+L'accesso degli animali ai locali è consentito.
+
+Chiuso il lunedì sera ed il martedì.
+
+notextile. </section></li></ul>
+</div><!-- chiuso horizontalaccordin -->
+<div id="images" class="grid_7 clearfix">
+	<div id="slider">
+		<img src="/images/01.jpg" alt="" />
+		<img src="/images/02.jpg" alt="" />
+		<img src="/images/03.jpg" alt="" />
+	</div>
+	<div id="transitions">
+                <ul id="controls">
+                    <li><a href="#" id="start">Play</a></li>
+                    <li><a href="#" id="stop">Pause</a></li>
+                    <li><a href="#" id="next">Next</a></li>
+                    <li><a href="#" id="prev">Prev</a></li>
+                </ul>
+	</div>
+</div><!-- chiuso images-->
