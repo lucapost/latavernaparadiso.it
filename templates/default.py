@@ -61,6 +61,7 @@ def header(node):
 				     	mail: info@latavernaparadiso.it<br/><br/>
 				     	p.iva: 02629540309
 				</div>
+			</div>
 			<div class="clear"></div>
 		</header>
 		<div id=center>
