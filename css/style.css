@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-	color: grey;
+	color: brown;
 	transition: color;
 	transition-duration: 600ms;
 	-webkit-transition: color;
