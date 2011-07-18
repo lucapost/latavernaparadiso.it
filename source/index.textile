@@ -13,4 +13,4 @@ break;
 } 
 </script>
 
-"it(italiano)":/it "de(deutsch)":/de
+"it(italiano)":/it "de(deutsch)":/it

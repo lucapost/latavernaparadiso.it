@@ -31,7 +31,6 @@ def header(node):
 		<script type="text/javascript" src="/js/slider.js"></script>  
 		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script>
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-		<meta name="robots" content="index,follow" />
 		<meta name="author" content="''' + author + '''" />
 		<title>''Taverna Paradiso (alla Bassanese) -' + node.name + ''</title>
 	</head>

@@ -7,14 +7,16 @@ notextile. <section>
 
 La Taverna Paradiso di Cividale del Friuli suggerisce,
 
-* "cividale.com":http://cividale.com/
-* "santuariocastelmonte.it":http://www.santuariocastelmonte.it/
+* "Cividale":http://cividale.net
+* "Santuario di Castelmonte":http://www.santuariocastelmonte.it/
+* "Valli del Natisone":http://it.wikipedia.org/wiki/Valli_del_Natisone
+* "Turismo FVG":http://www.turismofvg.it/
 
 e per terminare la tua serata,
 
 * "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
-* "Caffe al Corso", Cividale
-* "Giona Club", V. Pasubio 14 - Premariacco (UD)
+* "Caffe al Corso", Corso Mazzini, Cividale
+* ""Giona Club":http://gionasclub.it/", V. Pasubio 14 - Leproso di Premariacco (UD)
 
 notextile. </section></li>
 <li>
@@ -68,9 +70,9 @@ h2. Taverna
 
 notextile. <section>
 
-La Taverna Paradiso di Cividale del Friuli nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
+La Taverna Paradiso di "Cividale del Friuli":http://www.cividale.net/ nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 	
-Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del Collio Friulano.
+Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
 
 Sono disponibili 77 coperti, dei quali 12 nell'accogliente cortile all'esterno. 
 
