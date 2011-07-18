@@ -51,7 +51,7 @@ def header(node):
 			</div>
 			<div id="hright" class="grid_6 clearfix">
 				<div>
-					<g:plusone href="http://www.latavernaparadiso.it"></g:plusone>
+					<g:plusone></g:plusone>
 					<a href="/it" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" /></a><!--<a href="/de" title="deutcsh"><img src="/images/de.jpg" title="de flag" /></a>-->
 				</div>
 				<div>
