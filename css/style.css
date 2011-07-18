@@ -192,8 +192,7 @@ header {
 }
 
 #transitions {
-	font-family: 'Gruppo', Arial, Serif;
-	font-size: 16px;
+	font-family: 'Nobile', Arial, Serif;
 	text-transform: uppercase;
 	overflow:hidden;
 	margin:0;
@@ -248,6 +247,8 @@ section img {
 
 section img.piatti {
 	margin-right:20px;
+	width: 80px;
+	height: 60px;
 }
 
 footer {

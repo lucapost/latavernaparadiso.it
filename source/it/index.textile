@@ -5,7 +5,7 @@ h2. Links
 	
 notextile. <section>
 
-La Taverna Paradiso suggerisce,
+La Taverna Paradiso di Cividale del Friuli suggerisce,
 
 * "cividale.com":http://cividale.com/
 * "santuariocastelmonte.it":http://www.santuariocastelmonte.it/
@@ -30,7 +30,7 @@ h2. Specialità
 
 notextile. <section>
 
-Tra le pietanze d'interesse, la Taverna Paradiso annovera,
+Tra le pietanze d'interesse, la Taverna Paradiso di Cividale del Friuli annovera,
 
 * i formaggi della "Latteria di Cividale":http://www.latteriacividale.it/
 * le carni di "Jolanda de Colò":http://www.jolandadecolo.it/
@@ -49,15 +49,15 @@ h2. Piatti
 
 notextile. <section>
 
-La Taverna Paradiso d'estate offre piatti come,
+La Taverna Paradiso di Cividale del Friuli, tra i piatti apprezzati nella stagione estiva, offre,
 
-!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+!(piatti)/images/piatti/carpaccio.jpg! Carpaccio d'anatra
 
-!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+!(piatti)/images/piatti/costata.jpg! Costata d'angus st.George
 
-!(piatti)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+!(piatti)/images/piatti/seppioline.jpg! Seppioline in umido
 
-!(piatti last)/images/piatti/piatto1.jpg! stinco di maiale alla grappa
+!(piatti last)/images/piatti/costicine.jpg! Costicine d'agnello
 
 notextile. </section></li>
 <li>
@@ -66,11 +66,11 @@ h2. Taverna
 
 notextile. <section>
 
-La Taverna Paradiso nasce a fine 1800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la taverna paradiso è ancora conosciuta con il nome di Bassanese. 
+La Taverna Paradiso di Cividale del Friuli nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 	
-Intepreta la cucina friulana in chiave moderna, offrendo ai suoi ospiti piatti a base di carne e pesce accompagnati dai vini del Collio.
+Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del Collio Friulano.
 
-Sono disponibili 55 coperti, più 12 esterni nell'accogliente cortile. 
+Sono disponibili 77 coperti, dei quali 12 nell'accogliente cortile all'esterno. 
 
 L'accesso degli animali ai locali è consentito.
 
@@ -80,9 +80,18 @@ notextile. </section></li></ul>
 </div><!-- chiuso horizontalaccordin -->
 <div id="images" class="grid_7 clearfix">
 	<div id="slider">
-		<img src="/images/01.jpg" alt="" />
-		<img src="/images/02.jpg" alt="" />
-		<img src="/images/03.jpg" alt="" />
+		<img src="/images/01.jpg" title="L'ingresso della Taverna Paradiso di Cividale" />
+		<img src="/images/02.jpg" title="L'ingresso della Taverna Paradiso di Cividale" />
+		<img src="/images/03.jpg" title="Il bancone della Taverna Paradiso di Cividale" />
+		<img src="/images/04.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" />
+		<img src="/images/05.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" />
+		<img src="/images/06.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" />
+		<img src="/images/07.jpg" title="La saletta principale della Taverna Paradiso di Cividale" />
+		<img src="/images/08.jpg" title="La saletta principale della Taverna Paradiso di Cividale" />
+		<img src="/images/09.jpg" title="La saletta principale della Taverna Paradiso di Cividale" />
+		<img src="/images/10.jpg" title="L'angolo della fontana della Taverna Paradiso di Cividale" />
+		<img src="/images/11.jpg" title="Il campanile del Duomo di Cividale" />
+		<img src="/images/12.jpg" title="Il fiume Natisone dal Ponte del Diavolo di Cividale" />
 	</div>
 	<div id="transitions">
                 <ul id="controls">
