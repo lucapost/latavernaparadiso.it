@@ -7,16 +7,16 @@ notextile. <section>
 
 La Taverna Paradiso di Cividale del Friuli suggerisce,
 
-* "Cividale":http://cividale.net
-* "Santuario di Castelmonte":http://www.santuariocastelmonte.it/
-* "Valli del Natisone":http://it.wikipedia.org/wiki/Valli_del_Natisone
-* "Turismo FVG":http://www.turismofvg.it/
+* "Cividale(sito di Cividale del Friuli)":http://cividale.net
+* "Santuario di Castelmonte(il sito del Santuario di Castelmonte)":http://www.santuariocastelmonte.it/
+* "Valli del Natisone(La pagina di wikipedia sulle Valli del Natisone)":http://it.wikipedia.org/wiki/Valli_del_Natisone
+* "Turismo FVG(Il sito ufficiale del turismo in friuli venezia giuglia)":http://www.turismofvg.it/
 
 e per terminare la tua serata,
 
 * "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
 * "Caffe al Corso", Corso Mazzini, Cividale
-* ""Giona Club":http://gionasclub.it/", V. Pasubio 14 - Leproso di Premariacco (UD)
+* ""Giona Club(il sito internet del club sportivo Giona Club di Leproso di Premariacco)":http://gionasclub.it/", V. Pasubio 14 - Leproso di Premariacco (UD)
 
 notextile. </section></li>
 <li>
@@ -34,15 +34,15 @@ notextile. <section>
 
 La Taverna Paradiso di Cividale del Friuli annovera tra le eccellenze,
 
-* i formaggi della "Latteria di Cividale":http://www.latteriacividale.it/
-* le carni di "Jolanda de Colò":http://www.jolandadecolo.it/
+* i formaggi della "Latteria di Cividale(il sito internet della Latteria Sociale di Cividale)":http://www.latteriacividale.it/
+* le carni di "Jolanda de Colò(Il sito internet delle carni di Jolanda de Colò)":http://www.jolandadecolo.it/
 
 Nella nostra cantina sono presenti i migliori vini friulani
 
 * bianchi: sauvignon, tocai, prosecco, malvasia, ...
 * rossi: cabernet, merlot, refosco, ...
 
-oltre ai particolari prodotti del "Birrificio Menabrea":http://www.birramenabrea.com/ di Biella.
+oltre ai particolari prodotti del "Birrificio Menabrea(il sito internet del birrificio menebrea di Biella)":http://www.birramenabrea.com/ di Biella.
 
 La Taverna Paradiso di Cividale del Friuli si distingue inoltre per la produzione di semplici ma gustosi grissini e crostini da affiancare all'attesa del pasto.
 
@@ -55,13 +55,13 @@ notextile. <section>
 
 La Taverna Paradiso di Cividale del Friuli, tra i piatti apprezzati nella stagione estiva, offre,
 
-!(piatti)/images/piatti/carpaccio.jpg! Carpaccio d'anatra
+!(piatti)/images/piatti/carpaccio.jpg(foto del carpaccio d'anatra)! Carpaccio d'anatra
 
-!(piatti)/images/piatti/costata.jpg! Costata d'angus st.George
+!(piatti)/images/piatti/costata.jpg(foto della costata 'angus st. george)! Costata d'angus st.George
 
-!(piatti)/images/piatti/seppioline.jpg! Seppioline in umido
+!(piatti)/images/piatti/seppioline.jpg(foto delle seppioline in umido)! Seppioline in umido
 
-!(piatti last)/images/piatti/costicine.jpg! Costicine d'agnello
+!(piatti last)/images/piatti/costicine.jpg(foto delle costicine di agnello)! Costicine d'agnello
 
 notextile. </section></li>
 <li>
@@ -70,9 +70,9 @@ h2. Taverna
 
 notextile. <section>
 
-La Taverna Paradiso di "Cividale del Friuli":http://www.cividale.net/ nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
+La Taverna Paradiso di "Cividale del Friuli(il sito internet di cividale del friuli)":http://www.cividale.net/ nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 	
-Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
+Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano(il collio friulano su wikipedia)":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
 
 Sono disponibili 77 coperti, dei quali 12 nell'accogliente cortile all'esterno. 
 
@@ -99,10 +99,10 @@ notextile. </section></li></ul>
 	</div>
 	<div id="transitions">
                 <ul id="controls">
-                    <li><a href="#" id="start">Play</a></li>
-                    <li><a href="#" id="stop">Pause</a></li>
-                    <li><a href="#" id="next">Next</a></li>
-                    <li><a href="#" id="prev">Prev</a></li>
+                    <li><a href="#" id="start" title="play gallery">Play</a></li>
+                    <li><a href="#" id="stop" title="stop gallery">Pause</a></li>
+                    <li><a href="#" id="next" title="next gallery">Next</a></li>
+                    <li><a href="#" id="prev" title="previous gallery">Prev</a></li>
                 </ul>
 	</div>
 </div><!-- chiuso images-->

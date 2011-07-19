@@ -56,7 +56,7 @@ def header(node):
 				</div>
 				<div>
 					di Alessio Mauro e Manuela Vogrig<br/>
-					<a href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
+					<a title="la Taverna Paradiso (alla Bassanese) di Cividale del Friuli su google maps" href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 					tel/fax: +39 0432 732438<br/>
 				     	mail: info@latavernaparadiso.it<br/><br/>
 				     	p.iva: 02629540309
@@ -74,9 +74,9 @@ def footer(node):
 		</div><!-- chiuso center -->
 		<div class="container_16">
 			<footer class="grid_16 clearfix">
-				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
-				<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> ::
-				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a> ::
+				&copy; ''' + str(current_time.year) + ''' <a title="Il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
+				<a title="La licenza Creative Commons" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> ::
+				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + '''
 			</footer>
 			<div class="clear"></div>
