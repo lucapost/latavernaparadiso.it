@@ -24,7 +24,38 @@ notextile. </section></li>
 h2. Novità
 
 notextile. <section>
-<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="340" height="360" show_faces="false" border_color="" stream="true" header="false"></fb:like-box>
+<!-- <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="340" height="360" show_faces="false" border_color="" stream="true" header="false"></fb:like-box> -->
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 340,
+  height: 360,
+  theme: {
+    shell: {
+      background: '#aaaaaa',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#a52a2a'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: false,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('AllaBassanese').start();
+</script>
 </section></li>
 <li>
 
