@@ -55,13 +55,13 @@ notextile. <section>
 
 La Taverna Paradiso di Cividale del Friuli, tra i piatti apprezzati nella stagione estiva, offre,
 
-!(piatti)/images/piatti/carpaccio.jpg(foto del carpaccio d'anatra)! Carpaccio d'anatra
+!(piatti)/images/piatti/carpaccio.jpg(carpaccio d'anatra)! Carpaccio d'anatra
 
-!(piatti)/images/piatti/costata.jpg(foto della costata 'angus st. george)! Costata d'angus st.George
+!(piatti)/images/piatti/costata.jpg(costata d'angus st. george)! Costata d'angus st.George
 
-!(piatti)/images/piatti/seppioline.jpg(foto delle seppioline in umido)! Seppioline in umido
+!(piatti)/images/piatti/seppioline.jpg(seppioline in umido)! Seppioline in umido
 
-!(piatti last)/images/piatti/costicine.jpg(foto delle costicine di agnello)! Costicine d'agnello
+!(piatti last)/images/piatti/costicine.jpg(costicine di agnello)! Costicine d'agnello
 
 notextile. </section></li>
 <li>
@@ -70,7 +70,7 @@ h2. Taverna
 
 notextile. <section>
 
-La Taverna Paradiso di "Cividale del Friuli(il sito internet di cividale del friuli)":http://www.cividale.net/ nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
+La Taverna Paradiso di "Cividale del Friuli(cividale del friuli)":http://www.cividale.net/ nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 	
 Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano(il collio friulano su wikipedia)":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
 
@@ -84,18 +84,18 @@ notextile. </section></li></ul>
 </div><!-- chiuso horizontalaccordin -->
 <div id="images" class="grid_7 clearfix">
 	<div id="slider">
-		<img src="/images/01.jpg" title="L'ingresso della Taverna Paradiso di Cividale" alt="L'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/02.jpg" title="L'ingresso della Taverna Paradiso di Cividale" alt="L'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/03.jpg" title="Il bancone della Taverna Paradiso di Cividale" alt="L'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/04.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" alt="La sala d'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/05.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" alt="La sala d'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/06.jpg" title="La sala d'ingresso della Taverna Paradiso di Cividale" alt="La sala d'ingresso della Taverna Paradiso di Cividale" />
-		<img src="/images/07.jpg" title="La saletta principale della Taverna Paradiso di Cividale" alt="La saletta principale della Taverna Paradiso di Cividale" />
-		<img src="/images/08.jpg" title="La saletta principale della Taverna Paradiso di Cividale" alt="La saletta principale della Taverna Paradiso di Cividale" />
-		<img src="/images/09.jpg" title="La saletta principale della Taverna Paradiso di Cividale" alt="La saletta principale della Taverna Paradiso di Cividale" />
-		<img src="/images/10.jpg" title="L'angolo della fontana della Taverna Paradiso di Cividale" alt="L'angolo della fontana della Taverna Paradiso di Cividale" />
-		<img src="/images/11.jpg" title="Il campanile del Duomo di Cividale" alt="Il campanile del Duomo di Cividale" />
-		<img src="/images/12.jpg" title="Il fiume Natisone dal Ponte del Diavolo di Cividale" alt="Il fiume Natisone dal Ponte del Diavolo di Cividale" />
+		<img src="/images/01.jpg" title="portone" alt="l'edificio da via patriarcato" />
+		<img src="/images/02.jpg" title="portone" alt="l'edificio da via cavour" />
+		<img src="/images/03.jpg" title="la sala principale" alt="il banco del bar" />
+		<img src="/images/04.jpg" title="la sala principale" alt="l'arredamento" />
+		<img src="/images/05.jpg" title="la sala principale" alt="le luci" />
+		<img src="/images/06.jpg" title="l'ingresso alla saletta e alla cucina" alt="gli accessi alla cucina ed alla saletta" />
+		<img src="/images/07.jpg" title="la saletta" alt="i tavoli" />
+		<img src="/images/08.jpg" title="la parete della saletta" alt="l'arredamento della saletta" />
+		<img src="/images/09.jpg" title="i tavoli della saletta" alt="il passaggio dalla saletta alla stanza del banco" />
+		<img src="/images/10.jpg" title="la fontana in giardino" alt="il cortile" />
+		<img src="/images/11.jpg" title="il campanile del duomo" alt="il duomo dal natisone" />
+		<img src="/images/12.jpg" title="il natisone dal ponte del diavolo" alt="vista dal ponte del diavolo" />
 	</div>
 	<div id="transitions">
                 <ul id="controls">
