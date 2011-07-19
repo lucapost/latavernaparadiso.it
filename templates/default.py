@@ -44,6 +44,7 @@ def header(node):
 		<header class="container_16">
 			<div id="title" class="grid_10">
 				<h1>''' + site_name + '''</h1>
+				<h1>''' + subname + '''</h1>
 				<h2>''' + site_desc + '''</h2>
 			</div>
 			<div id="hright" class="grid_6 clearfix">
