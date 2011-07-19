@@ -24,6 +24,8 @@ def header(node):
 	<head>
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<meta name="author" content="''' + author + '''" />
+		<meta name="keywords" content="taverna paradiso, ristorante, valli del natisone, cividale, friuli" />
+		<meta name="description" content="Ristorante Taverna Paradiso alla Bassanese di Cividale del Friuli" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
