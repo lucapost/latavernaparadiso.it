@@ -17,7 +17,7 @@ def header(node):
 	return '''<!DOCTYPE html>
 	<html lang="''' + language + '''">
 	<head>
-		<title>''' + site_name + ' | ' + node.name + '''</title>
+		<title>''' + site_name + ' ' + subname + ' | ' + node.name + '''</title>
 		<meta name="author" content="''' + author + '''" />
 		<meta name="keywords" content="''' + keywords + '''" />
 		<meta name="description" content="''' + description + '''" />
