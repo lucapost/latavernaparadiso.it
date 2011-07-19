@@ -43,7 +43,7 @@ def header(node):
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
-		<title>Taverna Paradiso (alla Bassanese) -''' + node.name + '''</title>
+		<title>Taverna Paradiso (alla Bassanese) - ''' + node.name + '''</title>
 	</head>
 	<body>
 		<header class="container_16">
