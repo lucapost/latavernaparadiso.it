@@ -3,14 +3,10 @@
 
 import datetime
 
-site_name = "Taverna Paradiso <br/> (alla Bassanese)"
-site_desc = "Ristorante a Cividale del Friuli"
 author = "Luca Postregna"
-src_dir = "source"
-dst_dir = "."
+path_separator = "/"
 prefix = "/"
-home = "home"
-path_separator = ">"
+home = "/"
 src_ext = {"textile": "textile"}
 dst_ext = "html"
 hidden = set(["404.textile", "500.textile"])
@@ -18,14 +14,14 @@ current_time = datetime.datetime.now()
 
 def header(node):
 	"""Builds the header and returns it to a string."""
-
 	return '''<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+	<html lang="''' + language + '''">
 	<head>
-		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+		<title>''' + site_name + ' | ' + node.name + '''</title>
 		<meta name="author" content="''' + author + '''" />
-		<meta name="keywords" content="taverna, ristorante, ristorazione, cividale, friuli, paradiso, bassanese, valli del natisone, natisone" />
-		<meta name="description" content="Ristorante Taverna Paradiso alla Bassanese di Cividale del Friuli" />
+		<meta name="keywords" content="''' + keywords + '''" />
+		<meta name="description" content="''' + description + '''" />
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/hashgrid.js"></script>  
@@ -43,7 +39,6 @@ def header(node):
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
-		<title>Taverna Paradiso (alla Bassanese) - ''' + node.name + '''</title>
 	</head>
 	<body>
 		<header class="container_16">
@@ -54,7 +49,7 @@ def header(node):
 			<div id="hright" class="grid_6 clearfix">
 				<div>
 					<g:plusone></g:plusone>
-					<a href="/it" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" alt="bandiera italiana" /></a><!--<a href="/de" title="deutcsh"><img alt="flag de" src="/images/de.jpg" title="de flag" /></a>-->
+					<a href="/" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" alt="bandiera italiana" /></a><!--<a href="/de" title="deutcsh"><img alt="flag de" src="/images/de.jpg" title="de flag" /></a>-->
 				</div>
 				<div>
 					di Alessio Mauro e Manuela Vogrig<br/>

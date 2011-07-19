@@ -1,2 +1,2 @@
 compile:
-	./minimalsite.py -t default
+	./minimalsite.py -t it
