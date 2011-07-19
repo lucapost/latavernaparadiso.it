@@ -52,7 +52,7 @@ def header(node):
 			<div id="hright" class="grid_6 clearfix">
 				<div>
 					<g:plusone></g:plusone>
-					<a href="/it" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" /></a><!--<a href="/de" title="deutcsh"><img src="/images/de.jpg" title="de flag" /></a>-->
+					<a href="/it" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" alt="bandiera italiana" /></a><!--<a href="/de" title="deutcsh"><img alt="flag de" src="/images/de.jpg" title="de flag" /></a>-->
 				</div>
 				<div>
 					di Alessio Mauro e Manuela Vogrig<br/>
