@@ -49,7 +49,9 @@ def header(node):
 				<h2>''' + site_desc + '''</h2>
 			</div>
 			<div id="hright" class="grid_6 clearfix">
-				<div>
+				<div>	
+					<a href="https://www.facebook.com/pages/Taverna-Paradiso-alla-Bassanese/189399674446995" title="Taverna Paradiso on Facebook"><img src="/images/facebook.png" class="social" title="facebook icon" alt="facebook image"/></a>
+					<a href="https://twitter.com/#!/allabassanese" title="Taverna Paradiso on Twitter"><img src="/images/twitter.png" class="social" title="twitter icon" alt="twitter image"/></a>
 					<g:plusone></g:plusone>
 					<a href="/" title="traduzione italiana"><img src="/images/it.jpg" title="it flag" alt="lang it" /></a><!--<a href="/de" title="deutcsh"><img alt="flag de" src="/images/de.jpg" title="lang de" /></a>-->
 				</div>
