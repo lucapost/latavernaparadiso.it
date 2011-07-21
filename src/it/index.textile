@@ -128,12 +128,10 @@ notextile. </section></li></ul>
 		<img src="/images/11.jpg" title="il campanile del duomo" alt="il duomo dal natisone" />
 		<img src="/images/12.jpg" title="il natisone dal ponte del diavolo" alt="vista dal ponte del diavolo" />
 	</div>
-	<div id="transitions">
-                <ul id="controls">
-                    <li><a href="#" id="start" title="play gallery">Play</a></li>
-                    <li><a href="#" id="stop" title="stop gallery">Pause</a></li>
-                    <li><a href="#" id="next" title="next gallery">Next</a></li>
-                    <li><a href="#" id="prev" title="previous gallery">Prev</a></li>
-                </ul>
+	<div id="controls">
+                <a href="#" id="start" title="play">Play</a>
+                <a href="#" id="stop" title="stop">Stop</a> 
+                <a href="#" id="next" title="next">Next</a> 
+                <a href="#" id="prev" title="previous">Prev</a>
 	</div>
 </div><!-- chiuso images-->

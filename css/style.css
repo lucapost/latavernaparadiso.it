@@ -199,17 +199,16 @@ header {
 
 #slider {
 	margin-top:20px;
+	width: 460px;
 }
 
-#transitions {
-	font-family: 'Nobile', Arial, Serif;
+#controls {
+	text-align: center;
 	text-transform: uppercase;
-	overflow:hidden;
-	margin:0;
-	padding:0;
+	color: grey;
 }
 
-#transitions a {
+#controls a {
 	text-decoration: none;
 	color: grey;
 	transition: color;
@@ -222,7 +221,7 @@ header {
 	-o-transition-duration: 2000ms;
 }
 
-#transitions a:hover {
+#controls a:hover {
 	color: black;
 	transition: color;
 	transition-duration: 400ms;
@@ -232,17 +231,6 @@ header {
 	-moz-transition-duration: 400ms;
 	-o-transition: color;
 	-o-transition-duration: 400ms;
-}
-#transitions ul {
-	text-align:center;
-	list-style:none;
-	padding:0;
-	margin:0;
-}
-#transitions ul li {
-	display: inline;
-	margin:0;
-	padding:0;
 }
 
 section {
