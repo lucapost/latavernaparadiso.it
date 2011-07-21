@@ -5,7 +5,7 @@ keywords = "taverna, trattoria, ristorante, ristorazione, mangiare, cividale, fr
 description = "Ristorante a Cividale del Friuli"
 site_name = "Taverna Paradiso"
 subname = "(alla Bassanese)"
-site_desc = "Ristorante a Cividale del Friuli"
+site_desc = "Ristorante a Cividale del Friuli, Trattoria"
 src_dir = "src/it"
 dst_dir = "."
 execfile('templates/default.py')
