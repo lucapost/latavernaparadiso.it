@@ -58,6 +58,10 @@ a:hover {
 	-o-transition-duration: 600ms;
 }
 
+.hide {
+	visibility: hidden;
+}
+
 header {
 	margin: 0;
 	background-color: white;
@@ -72,13 +76,36 @@ header {
 	text-align: right;
 }
 
-#hright img {
-	margin: 0 0 20px 20px;
-	border-radius: 5px;
+#buttons {
+	display: inline;
 }
 
-#hright img.social {
-	margin: 0 20px 20px 0;
+#googleplus, 
+#flagit a,
+#twitter a,
+#facebook a {
+	display: block;
+	height: 40px;
+	width: 40px;
+	border-radius: 10px;
+	float: right;
+	margin-left: 20px;
+}
+
+#facebook a {
+	background:url(/images/facebook.png) no-repeat right top;
+}
+
+#twitter a {
+	background:url(/images/twitter.png) no-repeat right top;
+}
+
+#flagit a {
+	background:url(/images/it.jpg) no-repeat right top;
+}
+
+#contacts {
+	margin-top: 60px;
 }
 
 #center {

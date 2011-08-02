@@ -49,13 +49,27 @@ def header(node):
 				<h2>''' + site_desc + '''</h2>
 			</div>
 			<div id="hright" class="grid_6 clearfix">
-				<div>	
-					<g:plusone></g:plusone>
-					<a href="https://www.facebook.com/pages/Taverna-Paradiso-alla-Bassanese/189399674446995" title="Taverna Paradiso on Facebook"><img src="/images/facebook.png" class="social" title="facebook" alt="facebook image"/></a>
-					<a href="https://twitter.com/#!/allabassanese" title="Taverna Paradiso on Twitter"><img src="/images/twitter.png" class="social" title="twitter" alt="twitter image"/></a>
-					<a href="/" title="traduzione italiana"><img src="/images/it.jpg" title="italiano" alt="lingua italiana" /></a><!--<a href="/de" title="deutcsh"><img alt="flag de" src="/images/de.jpg" title="lang de" /></a>-->
+				<div id="buttons">
+					<div id="flagit">
+						<a href="/" title="sito in italiano">
+							<p class="hide">it</p>
+						</a> 
+					</div>
+					<div id="twitter">
+						<a href="https://twitter.com/#!/allabassanese" title="Taverna Paradiso on Twitter">
+							<p class="hide">twitter</p>
+						</a>
+					</div>
+					<div id="facebook">
+						<a href="http://goo.gl/fDD4o" title="Taverna Paradiso on Facebook">
+							<p class="hide">facebook</p>
+						</a>
+					</div>
+					<div id="googleplus">
+						<g:plusone count="false"></g:plusone> 
+					</div>
 				</div>
-				<div>
+				<div id="contacts">
 					di Alessio Mauro e Manuela Vogrig<br/>
 					<a title="la Taverna Paradiso (alla Bassanese) di Cividale del Friuli su google maps" href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 					tel/fax: +39 0432 732438<br/>
