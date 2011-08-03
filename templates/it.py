@@ -1,8 +1,8 @@
 import datetime
 
 language = "it"
-keywords = "taverna, trattoria, ristorante, ristorazione, mangiare, cividale, friuli, paradiso, bassanese, carne, pesce, jolanda de colo, birre, birrificio, menabrea"
-description = "Trattoria e Ristorante a Cividale del Friuli"
+keywords = "ristorante a cividale del friuli, taverna, trattoria, ristorazione, mangiare, ristorazione"
+description = "Ristorante a Cividale del Friuli, Trattoria"
 title = "Taverna Paradiso (alla Bassanese) - Ristorante a Cividale del Friuli"
 site_name = "Taverna Paradiso"
 subname = "(alla Bassanese)"
