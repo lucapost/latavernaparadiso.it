@@ -63,7 +63,7 @@ h2. Specialità
 
 notextile. <section>
 
-*La Taverna Paradiso*, *ristorante a Cividale del Friuli*, annovera tra le eccellenze,
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, annovera tra le eccellenze,
 
 * i formaggi della "Latteria di Cividale(il sito internet della Latteria Sociale di Cividale)":http://www.latteriacividale.it/
 * le carni di "Jolanda de Colò(Il sito internet delle carni di Jolanda de Colò)":http://www.jolandadecolo.it/
@@ -75,7 +75,7 @@ Nella nostra cantina sono presenti i migliori vini friulani
 
 oltre ai particolari prodotti del "Birrificio Menabrea(il sito internet del birrificio menebrea di Biella)":http://www.birramenabrea.com/ di Biella.
 
-*La Taverna Paradiso*, *ristorante a Cividale del Friuli*, si distingue inoltre per la produzione di semplici ma gustosi grissini e crostini da affiancare all'attesa del pasto.
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, si distingue inoltre per la produzione di semplici ma gustosi grissini e crostini da affiancare all'attesa del pasto.
 
 notextile. </section></li>
 <li>
@@ -84,7 +84,7 @@ h2. Piatti
 
 notextile. <section>
 
-*La Taverna Paradiso*, *ristorante a Cividale del Friuli*, tra i piatti apprezzati nella stagione estiva, offre,
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, tra i piatti apprezzati nella stagione estiva, offre,
 
 !(piatti)/images/piatti/carpaccio.jpg(carpaccio d'anatra)! Carpaccio d'anatra
 
@@ -101,7 +101,7 @@ h2. Taverna
 
 notextile. <section>
 
-*La Taverna Paradiso*, *ristorante a Cividale del Friuli*, nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 	
 Intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano(il collio friulano su wikipedia)":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
 
