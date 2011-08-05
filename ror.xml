@@ -6,18 +6,10 @@
 
 <item>
      <link>http://latavernaparadiso.it/</link>
-     <title>Taverna Paradiso (alla Bassanese) - index</title>
-     <description>Ristorante Taverna Paradiso alla Bassanese di Cividale del Friuli</description>
+     <title>Taverna Paradiso (alla Bassanese) - Ristorante a Cividale del Friuli | index</title>
+     <description>Ristorante a Cividale del Friuli, Trattoria</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://latavernaparadiso.it/it/</link>
-     <title>Taverna Paradiso (alla Bassanese) - index</title>
-     <description>Ristorante Taverna Paradiso alla Bassanese di Cividale del Friuli</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
