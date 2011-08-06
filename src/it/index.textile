@@ -1,31 +1,68 @@
 notextile. <div id="main" class="horizontalaccordion grid_9">
-<ul id="first"><li>
-    
-h2. Links
-	
+<ul>
+<li class="listswitch">
+ 
+h2. Taverna
+
 notextile. <section>
 
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, suggerisce,
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
 
-* "Cividale(sito di Cividale del Friuli)":http://cividale.net
-* "Santuario di Castelmonte(il sito del Santuario di Castelmonte)":http://www.santuariocastelmonte.it/
-* "Valli del Natisone(La pagina di wikipedia sulle Valli del Natisone)":http://it.wikipedia.org/wiki/Valli_del_Natisone
-* "Turismo FVG(Il sito ufficiale del turismo in friuli venezia giuglia)":http://www.turismofvg.it/
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano(il collio friulano su wikipedia)":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
 
-e per terminare la tua serata,
+Sono disponibili 77 coperti, dei quali 12 nell'accogliente cortile all'esterno. 
 
-* "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
-* "Caffe al Corso", Corso Mazzini, Cividale
-* ""Giona's Club(il sito internet del club sportivo Giona Club di Leproso di Premariacco)":http://gionasclub.it/", V. Pasubio 14 - Leproso di Premariacco (UD)
+L'accesso agli animali è consentito.
 
-notextile. </section></li>
-<li>
+Chiuso il lunedì sera ed il martedì.
+
+notextile. </section>
+</li>
+<li class="listswitch">
+
+h2. Piatti
+
+notextile. <section>
+
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, tra i piatti apprezzati nella stagione estiva, offre,
+
+!(piatti)/images/piatti/carpaccio.jpg(carpaccio d'anatra)! Carpaccio d'anatra
+
+!(piatti)/images/piatti/costata.jpg(costata d'angus st. george)! Costata d'angus st.George
+
+!(piatti)/images/piatti/seppioline.jpg(seppioline in umido)! Seppioline in umido
+
+!(piatti last)/images/piatti/costicine.jpg(costicine di agnello)! Costicine d'agnello
+
+notextile. </section>
+</li>
+<li class="listswitch">
+
+h2. Specialità
+
+notextile. <section>
+
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, annovera tra le eccellenze,
+
+* i formaggi della "Latteria di Cividale(il sito internet della Latteria Sociale di Cividale)":http://www.latteriacividale.it/
+* le carni di "Jolanda de Colò(Il sito internet delle carni di Jolanda de Colò)":http://www.jolandadecolo.it/
+
+Nella nostra cantina sono presenti i migliori vini friulani
+
+* bianchi: sauvignon, tocai, prosecco, malvasia, ...
+* rossi: cabernet, merlot, refosco, ...
+
+oltre ai particolari prodotti del "Birrificio Menabrea(il sito internet del birrificio menebrea di Biella)":http://www.birramenabrea.com/ di Biella.
+
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, si distingue inoltre per la produzione di semplici ma gustosi grissini e crostini da affiancare all'attesa del pasto.
+
+notextile. </section>
+</li>
+<li class="listswitch">
 
 h2. Appuntamenti
 
 notextile. <section>
-<!-- <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Taverna-Paradiso/189399674446995" width="340" height="360" show_faces="false" border_color="" stream="true" header="false"></fb:like-box> -->
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
 new TWTR.Widget({
   version: 2,
@@ -56,62 +93,31 @@ new TWTR.Widget({
   }
 }).render().setUser('AllaBassanese').start();
 </script>
-</section></li>
-<li>
-
-h2. Specialità
-
+</section>
+</li>
+<li class="listswitch">
+   
+h2. Links
+	
 notextile. <section>
 
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, annovera tra le eccellenze,
+La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, suggerisce,
 
-* i formaggi della "Latteria di Cividale(il sito internet della Latteria Sociale di Cividale)":http://www.latteriacividale.it/
-* le carni di "Jolanda de Colò(Il sito internet delle carni di Jolanda de Colò)":http://www.jolandadecolo.it/
+* "Cividale(sito di Cividale del Friuli)":http://cividale.net
+* "Santuario di Castelmonte(il sito del Santuario di Castelmonte)":http://www.santuariocastelmonte.it/
+* "Valli del Natisone(La pagina di wikipedia sulle Valli del Natisone)":http://it.wikipedia.org/wiki/Valli_del_Natisone
+* "Turismo FVG(Il sito ufficiale del turismo in friuli venezia giuglia)":http://www.turismofvg.it/
 
-Nella nostra cantina sono presenti i migliori vini friulani
+e per terminare la tua serata,
 
-* bianchi: sauvignon, tocai, prosecco, malvasia, ...
-* rossi: cabernet, merlot, refosco, ...
+* "Il Santo ed Il Lupo" Pub, P.za S. Francesco 4, Cividale (UD)
+* "Caffe al Corso", Corso Mazzini, Cividale
+* ""Giona's Club(il sito internet del club sportivo Giona Club di Leproso di Premariacco)":http://gionasclub.it/", V. Pasubio 14 - Leproso di Premariacco (UD)
 
-oltre ai particolari prodotti del "Birrificio Menabrea(il sito internet del birrificio menebrea di Biella)":http://www.birramenabrea.com/ di Biella.
-
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, si distingue inoltre per la produzione di semplici ma gustosi grissini e crostini da affiancare all'attesa del pasto.
-
-notextile. </section></li>
-<li>
-
-h2. Piatti
-
-notextile. <section>
-
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, tra i piatti apprezzati nella stagione estiva, offre,
-
-!(piatti)/images/piatti/carpaccio.jpg(carpaccio d'anatra)! Carpaccio d'anatra
-
-!(piatti)/images/piatti/costata.jpg(costata d'angus st. george)! Costata d'angus st.George
-
-!(piatti)/images/piatti/seppioline.jpg(seppioline in umido)! Seppioline in umido
-
-!(piatti last)/images/piatti/costicine.jpg(costicine di agnello)! Costicine d'agnello
-
-notextile. </section></li>
-<li>
-
-h2. Taverna
-
-notextile. <section>
-
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, nasce a fine '800 e trova massimo splendore durante la prima guerra mondiale con la gestione di una signora di Bassano, tra i cividalesi la Taverna Paradiso è ancora conosciuta con il nome di Bassanese. 
-
-La *Taverna Paradiso*, *ristorante a Cividale del Friuli*, intepreta la cucina friulana in chiave moderna. Offre ai suoi ospiti piatti tipici locali a base di carne e pesce accompagnati dai vini del "Collio Friulano(il collio friulano su wikipedia)":http://it.wikipedia.org/wiki/Collio_(regione_fisica).
-
-Sono disponibili 77 coperti, dei quali 12 nell'accogliente cortile all'esterno. 
-
-L'accesso agli animali è consentito.
-
-Chiuso il lunedì sera ed il martedì.
-
-notextile. </section></li></ul>
+notextile. </section>
+</li>
+</ul>
+<script type="text/javascript" src="/js/listswitch.js"></script>  
 </div><!-- chiuso horizontalaccordin -->
 <div id="images" class="grid_7 clearfix">
 	<div id="slider">
@@ -135,4 +141,3 @@ notextile. </section></li></ul>
                 <a href="#" id="prev" title="previous">Prev</a>
 	</div>
 </div><!-- chiuso images-->
-
