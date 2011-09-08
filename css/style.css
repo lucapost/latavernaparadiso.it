@@ -71,6 +71,12 @@ header {
 	padding-top: 40px;
 }
 
+#title a,
+#title a:hover {
+	color:black;
+	text-decoration:none;
+}
+
 #hright {
 	padding-top: 20px;
 	text-align: right;

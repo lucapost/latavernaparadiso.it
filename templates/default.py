@@ -35,8 +35,10 @@ def header(node):
 	<body>
 		<header class="container_16">
 			<div id="title" class="grid_10">
-				<h1>''' + site_name + '''</h1>
-				<h1>''' + subname + '''</h1>
+				<a href="/" title="home page">
+					<h1>''' + site_name + '''</h1>
+					<h1>''' + subname + '''</h1>
+				</a>
 				<h2>''' + site_desc + '''</h2>
 			</div>
 			<div id="hright" class="grid_6 clearfix">
@@ -82,7 +84,7 @@ def footer(node):
 			<footer class="grid_16 clearfix">
 				&copy; ''' + str(current_time.year) + ''' <a title="Il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
 				<a title="La licenza Creative Commons" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> ::
-				<a title="Privacy" href="/privacy.textile">privacy</a> ::
+				<a title="Privacy" href="/privacy.html">privacy</a> ::
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + '''
 			</footer>
