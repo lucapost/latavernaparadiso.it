@@ -66,7 +66,7 @@ def header(node):
 					di Alessio Mauro e Manuela Vogrig<br/>
 					<a title="la Taverna Paradiso (alla Bassanese) di Cividale del Friuli su google maps" href="http://maps.google.it/maps/place?cid=3477028844032398125">Via Cavour 21, Cividale del Friuli - UD - Italy</a><br/><br/>
 					tel/fax: +39 0432 732438<br/>
-				     	mail: info@latavernaparadiso.it<br/><br/>
+					mail: <a href="mailto:info@latavernaparadiso.it">info@latavernaparadiso.it</a><br/><br/>
 				     	p.iva: 02629540309
 				</div>
 			</div>
